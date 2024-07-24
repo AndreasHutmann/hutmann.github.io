@@ -1,42 +1,42 @@
 ---
 layout: post
 ---
-#Andreas Hutmann 
+# Andreas Hutmann 
 
 
-#About me 
+# About me 
 
 > I hope to be a data analyst,,,
 
 
-#Education 
+# Education 
 
 
 
-#Work experience 
+# Work experience 
 
 
-#Skill and Languages
+# Skill and Languages
 
 
-####Python         
-####MySQL
-####R
-####EXCEL 
-####Tableau 
+#### Python         
+#### MySQL
+#### R
+#### EXCEL 
+#### Tableau 
 ---
-####Korean
-####English
-####German
+#### Korean
+#### English
+#### German
 
 
-#Project
-
-
-
-
-#Resume
+# Project
 
 
 
-#Contact information
+
+# Resume
+
+
+
+# Contact information
